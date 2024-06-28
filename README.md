@@ -1,0 +1,1 @@
+https://www.figma.com/proto/yCIniIzuVhbrpl1vvy4pd7/6_27-%ED%8F%89%EA%B0%80_%EB%AC%B8%ED%98%9C%EB%A6%B0-%5B%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84%5D-%EC%99%84%EC%84%B1?page-id=0%3A1&node-id=1-4&viewport=-1072%2C429%2C1.05&t=LCR8L014Wv8cRVfD-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4&show-proto-sidebar=1
