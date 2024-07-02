@@ -1,0 +1,29 @@
+<style>
+    div{
+        width:300px;
+        height:300px;
+        margin-left:30;
+        background-color:#ff0000;
+        /* background-color:#00ff00; */
+        border-width:5px;
+        border-style:solid;
+        border-color:#000000;
+        transition:1s;
+        /* border-radius:50% */
+    }
+    </style>
+    <div onclick="
+        this.style.backgroundColor='#00ff00';
+        this.style.borderRadius='50%';
+        this.style.borderColor='#ff0000';
+        this.style.marginleft='50';
+    " onmouseleave="
+        this.style.backgroundColor='#ff0000';
+        this.style.borderRadius='0%';
+        this.style.borderColor='#000000';
+    "></div>
+    <img src="" alt="">
+
+    <!-- 스타일에서 트랜지션을 추가하면 정적인 것에서 동적인 것으로 바꿔줄 수 있다 -->
+    <!-- 등록 된 이벤트 : onclick (클릭하면 이벤트 발생) -->
+    <!-- 등록 된 이벤트 : onmouseleave (마우스 커서가 떠나면 이벤트 발생) -->
